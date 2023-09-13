@@ -3,7 +3,6 @@
 ## Day 1: Getting Started with Terraform
 
 #### Introduction to Terraform and IaC
-![MergedImages (1)](https://github.com/Jsuresh47/terraform-zero-to-hero/assets/45168608/7b91f360-944a-4ef2-a28e-6a394debbf93)
 
 In this session, we'll introduce you to the fundamental concepts of Terraform and Infrastructure as Code (IaC). Learn why Terraform is crucial for managing infrastructure and how IaC streamlines provisioning.
 
